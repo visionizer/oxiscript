@@ -1,2 +1,2 @@
-# S++
-Script++ is a script that will compile into C++. It uses .splus extension
+# OxiScript
+OxiScript is a language that allows you to write in a python-like syntax while compiling you scripts into .rs files. It uses the .oxi file extension
